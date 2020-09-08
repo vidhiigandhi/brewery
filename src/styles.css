@@ -1,0 +1,30 @@
+.App {
+  font-family: cursive;
+  text-align: center;
+}
+
+.jumbotron {
+  margin: 5px;
+  background-color: #000000 !important;
+}
+
+.labelBeer {
+  font-weight: bolder;
+  font-size: 21px;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.figure-caption {
+  font-size: 8px !important;
+}
+
+.card-body {
+  font-size: 11pt;
+}
+
+.titleText {
+  font-weight: bold;
+}
